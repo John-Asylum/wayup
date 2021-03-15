@@ -1,0 +1,32 @@
+.logo {
+	width: 155px;
+	height: 50px;
+}
+.title_h1 {
+	color: red;
+}
+.text {
+	width: 100px;
+	color: white;
+	background: blue;
+	margin-bottom: 90px;
+}
+.desctiption span {
+	color: red;
+}
+.title_h2 {
+	color: white;
+	background: green;
+}
+.title {
+	color: white;
+	background: green;
+	padding: 40px;
+}
+.form p {
+	margin-left: 150px;
+}
+.list li {
+	font-size: 25px;
+	border: 1px solid black;
+}
